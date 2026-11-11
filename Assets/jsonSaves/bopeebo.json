@@ -1,0 +1,1163 @@
+{
+    "notes": [
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 0.0,
+            "holdLength": 0.0,
+            "section": 0,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 0.6000000238418579,
+            "holdLength": 0.45000001788139346,
+            "section": 0,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 1.2000000476837159,
+            "holdLength": 0.45000001788139346,
+            "section": 0,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 2.4000000953674318,
+            "holdLength": 0.0,
+            "section": 1,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 3.0,
+            "holdLength": 0.45000001788139346,
+            "section": 1,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 3.6000001430511476,
+            "holdLength": 0.45000001788139346,
+            "section": 1,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 4.800000190734863,
+            "holdLength": 0.45000001788139346,
+            "section": 2,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 5.400000095367432,
+            "holdLength": 0.45000001788139346,
+            "section": 2,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 6.0,
+            "holdLength": 0.45000001788139346,
+            "section": 2,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 7.200000286102295,
+            "holdLength": 0.45000001788139346,
+            "section": 3,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 7.800000190734863,
+            "holdLength": 0.45000001788139346,
+            "section": 3,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 8.399999618530274,
+            "holdLength": 0.45000001788139346,
+            "section": 3,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 9.600000381469727,
+            "holdLength": 0.30000001192092898,
+            "section": 4,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 10.200000762939454,
+            "holdLength": 0.0,
+            "section": 4,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 10.5,
+            "holdLength": 0.0,
+            "section": 4,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 10.800000190734864,
+            "holdLength": 0.6000000238418579,
+            "section": 4,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 12.0,
+            "holdLength": 0.30000001192092898,
+            "section": 5,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 12.600000381469727,
+            "holdLength": 0.0,
+            "section": 5,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 12.899999618530274,
+            "holdLength": 0.0,
+            "section": 5,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 13.200000762939454,
+            "holdLength": 0.6000000238418579,
+            "section": 5,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 14.399999618530274,
+            "holdLength": 0.0,
+            "section": 6,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 14.699999809265137,
+            "holdLength": 0.0,
+            "section": 6,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 15.299999237060547,
+            "holdLength": 0.0,
+            "section": 6,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 15.59999942779541,
+            "holdLength": 0.6000000238418579,
+            "section": 6,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 16.799999237060548,
+            "holdLength": 0.0,
+            "section": 7,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 17.099998474121095,
+            "holdLength": 0.0,
+            "section": 7,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 17.69999885559082,
+            "holdLength": 0.0,
+            "section": 7,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 18.0,
+            "holdLength": 0.6000000238418579,
+            "section": 7,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 19.19999885559082,
+            "holdLength": 0.0,
+            "section": 8,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 19.499998092651368,
+            "holdLength": 0.0,
+            "section": 8,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 19.799999237060548,
+            "holdLength": 0.8999999761581421,
+            "section": 8,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 21.599998474121095,
+            "holdLength": 0.0,
+            "section": 9,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 21.89999771118164,
+            "holdLength": 0.0,
+            "section": 9,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 22.19999885559082,
+            "holdLength": 0.8999999761581421,
+            "section": 9,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 23.999998092651368,
+            "holdLength": 0.0,
+            "section": 10,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 24.299997329711915,
+            "holdLength": 0.0,
+            "section": 10,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 24.599998474121095,
+            "holdLength": 0.8999999761581421,
+            "section": 10,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 26.39999771118164,
+            "holdLength": 0.0,
+            "section": 11,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 26.699996948242189,
+            "holdLength": 0.0,
+            "section": 11,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 26.999998092651368,
+            "holdLength": 0.8999999761581421,
+            "section": 11,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 28.799997329711915,
+            "holdLength": 0.0,
+            "section": 12,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 29.09999656677246,
+            "holdLength": 0.0,
+            "section": 12,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 29.39999771118164,
+            "holdLength": 1.1999999284744263,
+            "section": 12,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 31.199996948242189,
+            "holdLength": 0.0,
+            "section": 13,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 31.499996185302736,
+            "holdLength": 0.0,
+            "section": 13,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 31.799997329711915,
+            "holdLength": 1.0499999523162842,
+            "section": 13,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 33.29999542236328,
+            "holdLength": 0.0,
+            "section": 13,
+            "rowIndex": 14,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 33.599998474121097,
+            "holdLength": 0.0,
+            "section": 14,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 33.89999771118164,
+            "holdLength": 0.0,
+            "section": 14,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 34.57499694824219,
+            "holdLength": 0.0,
+            "section": 14,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 34.5,
+            "holdLength": 0.0,
+            "section": 14,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 34.79999923706055,
+            "holdLength": 0.5999999642372131,
+            "section": 14,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 35.69999694824219,
+            "holdLength": 0.0,
+            "section": 14,
+            "rowIndex": 14,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 36.0,
+            "holdLength": 0.0,
+            "section": 15,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 36.29999923706055,
+            "holdLength": 0.0,
+            "section": 15,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 36.974998474121097,
+            "holdLength": 0.0,
+            "section": 15,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 36.900001525878909,
+            "holdLength": 0.0,
+            "section": 15,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 37.20000076293945,
+            "holdLength": 0.5999999642372131,
+            "section": 15,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 38.400001525878909,
+            "holdLength": 0.45000001788139346,
+            "section": 16,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 39.0,
+            "holdLength": 0.30000001192092898,
+            "section": 16,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 39.60000228881836,
+            "holdLength": 0.6000000238418579,
+            "section": 16,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 40.80000305175781,
+            "holdLength": 0.45000001788139346,
+            "section": 17,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 41.400001525878909,
+            "holdLength": 0.30000001192092898,
+            "section": 17,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 42.000003814697269,
+            "holdLength": 0.6000000238418579,
+            "section": 17,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 43.20000457763672,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 43.80000305175781,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 44.40000534057617,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 44.55000305175781,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 9,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 44.70000457763672,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 10,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 45.000003814697269,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 12,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 45.600006103515628,
+            "holdLength": 0.0,
+            "section": 19,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 46.20000457763672,
+            "holdLength": 0.0,
+            "section": 19,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 46.80000686645508,
+            "holdLength": 0.0,
+            "section": 19,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 46.95000457763672,
+            "holdLength": 0.0,
+            "section": 19,
+            "rowIndex": 9,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 47.100006103515628,
+            "holdLength": 0.0,
+            "section": 19,
+            "rowIndex": 10,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 47.40000534057617,
+            "holdLength": 0.0,
+            "section": 19,
+            "rowIndex": 12,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 48.00000762939453,
+            "holdLength": 0.45000001788139346,
+            "section": 20,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 48.600006103515628,
+            "holdLength": 0.30000001192092898,
+            "section": 20,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 49.200008392333987,
+            "holdLength": 0.6000000238418579,
+            "section": 20,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 50.40000915527344,
+            "holdLength": 0.45000001788139346,
+            "section": 21,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 51.00000762939453,
+            "holdLength": 0.30000001192092898,
+            "section": 21,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 51.60000991821289,
+            "holdLength": 0.6000000238418579,
+            "section": 21,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 50.925010681152347,
+            "holdLength": 0.0,
+            "section": 21,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 52.800010681152347,
+            "holdLength": 1.9499998092651368,
+            "section": 22,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 55.20001220703125,
+            "holdLength": 1.9499998092651368,
+            "section": 23,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 57.600013732910159,
+            "holdLength": 0.0,
+            "section": 24,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 57.9000129699707,
+            "holdLength": 0.0,
+            "section": 24,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 58.20001220703125,
+            "holdLength": 1.0499999523162842,
+            "section": 24,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 60.00001525878906,
+            "holdLength": 0.0,
+            "section": 25,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 60.30001449584961,
+            "holdLength": 0.0,
+            "section": 25,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 60.600013732910159,
+            "holdLength": 1.0499999523162842,
+            "section": 25,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 62.100013732910159,
+            "holdLength": 0.0,
+            "section": 25,
+            "rowIndex": 14,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 62.40001678466797,
+            "holdLength": 0.0,
+            "section": 26,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 62.700016021728519,
+            "holdLength": 0.0,
+            "section": 26,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 63.300018310546878,
+            "holdLength": 0.0,
+            "section": 26,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 63.37501525878906,
+            "holdLength": 0.0,
+            "section": 26,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 63.60001754760742,
+            "holdLength": 0.6000000238418579,
+            "section": 26,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 64.50001525878906,
+            "holdLength": 0.0,
+            "section": 26,
+            "rowIndex": 14,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 64.80001831054688,
+            "holdLength": 0.0,
+            "section": 27,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 65.10002136230469,
+            "holdLength": 0.0,
+            "section": 27,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 65.70001983642578,
+            "holdLength": 0.0,
+            "section": 27,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 65.77501678466797,
+            "holdLength": 0.0,
+            "section": 27,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 66.00001525878906,
+            "holdLength": 0.6000000238418579,
+            "section": 27,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 67.20001983642578,
+            "holdLength": 0.0,
+            "section": 28,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 67.5000228881836,
+            "holdLength": 0.0,
+            "section": 28,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 67.80001831054688,
+            "holdLength": 0.0,
+            "section": 28,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 68.10002136230469,
+            "holdLength": 0.0,
+            "section": 28,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 68.40001678466797,
+            "holdLength": 0.45000001788139346,
+            "section": 28,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 69.60002136230469,
+            "holdLength": 0.0,
+            "section": 29,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 69.9000244140625,
+            "holdLength": 0.0,
+            "section": 29,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 70.20001983642578,
+            "holdLength": 0.0,
+            "section": 29,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 70.5000228881836,
+            "holdLength": 0.0,
+            "section": 29,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 70.80001831054688,
+            "holdLength": 0.45000001788139346,
+            "section": 29,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 71.70001983642578,
+            "holdLength": 0.0,
+            "section": 29,
+            "rowIndex": 14,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 72.0000228881836,
+            "holdLength": 0.0,
+            "section": 30,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 72.3000259399414,
+            "holdLength": 0.0,
+            "section": 30,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 72.9000244140625,
+            "holdLength": 0.0,
+            "section": 30,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 72.97502136230469,
+            "holdLength": 0.0,
+            "section": 30,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 73.20001983642578,
+            "holdLength": 0.5999999642372131,
+            "section": 30,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 74.10002136230469,
+            "holdLength": 0.0,
+            "section": 30,
+            "rowIndex": 14,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 74.4000244140625,
+            "holdLength": 0.0,
+            "section": 31,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "right",
+            "noteHitTime": 74.70002746582031,
+            "holdLength": 0.0,
+            "section": 31,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "up",
+            "noteHitTime": 75.3000259399414,
+            "holdLength": 0.0,
+            "section": 31,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "left",
+            "noteHitTime": 75.3750228881836,
+            "holdLength": 0.0,
+            "section": 31,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "player",
+            "direction": "down",
+            "noteHitTime": 75.60002136230469,
+            "holdLength": 0.5999999642372131,
+            "section": 31,
+            "rowIndex": 8,
+            "hasSpawned": false
+        }
+    ],
+    "sections": [
+        {
+            "sectionIndex": 0,
+            "bpm": 100.0
+        },
+        {
+            "sectionIndex": 1,
+            "bpm": 100.0
+        },
+        {
+            "sectionIndex": 2,
+            "bpm": 100.0
+        },
+        {
+            "sectionIndex": 3,
+            "bpm": 100.0
+        },
+        {
+            "sectionIndex": 4,
+            "bpm": 100.0
+        },
+        {
+            "sectionIndex": 5,
+            "bpm": 100.0
+        },
+        {
+            "sectionIndex": 6,
+            "bpm": 100.0
+        },
+        {
+            "sectionIndex": 7,
+            "bpm": 100.0
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "rootBone": "Armature",
+  "scale": 1.0,
+  "offset": [0, -1, 0],
+  "animations": {
+    "idle": "Idle",
+    "left": "Idle",
+    "down": "SingDown",
+    "up": "SingUp",
+    "right": "SingRight"
+  }
+}

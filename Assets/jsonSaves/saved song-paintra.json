@@ -1,0 +1,340 @@
+{
+    "notes": [
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 120.62336730957031,
+            "holdLength": 0.1071428582072258,
+            "section": 66,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 120.83765411376953,
+            "holdLength": 0.1071428582072258,
+            "section": 66,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 121.21265411376953,
+            "holdLength": 0.0,
+            "section": 66,
+            "rowIndex": 11,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 121.31979370117188,
+            "holdLength": 0.1071428582072258,
+            "section": 66,
+            "rowIndex": 13,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 27.428565979003908,
+            "holdLength": 0.2142857164144516,
+            "section": 16,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 27.7499942779541,
+            "holdLength": 0.0,
+            "section": 16,
+            "rowIndex": 3,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 27.85713768005371,
+            "holdLength": 0.0,
+            "section": 16,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 28.071422576904298,
+            "holdLength": 0.2678571343421936,
+            "section": 16,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 28.392850875854493,
+            "holdLength": 0.0,
+            "section": 16,
+            "rowIndex": 9,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 28.4999942779541,
+            "holdLength": 0.2142857164144516,
+            "section": 16,
+            "rowIndex": 10,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 28.71428108215332,
+            "holdLength": 0.2142857164144516,
+            "section": 16,
+            "rowIndex": 12,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 29.142850875854493,
+            "holdLength": 0.0,
+            "section": 17,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 29.2499942779541,
+            "holdLength": 0.0,
+            "section": 17,
+            "rowIndex": 1,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 29.357135772705079,
+            "holdLength": 0.0,
+            "section": 17,
+            "rowIndex": 2,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 29.571422576904298,
+            "holdLength": 0.0,
+            "section": 17,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 29.785707473754884,
+            "holdLength": 0.0,
+            "section": 17,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 30.428565979003908,
+            "holdLength": 0.3214285671710968,
+            "section": 17,
+            "rowIndex": 12,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 29.9999942779541,
+            "holdLength": 0.3214285671710968,
+            "section": 17,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 30.107135772705079,
+            "holdLength": 0.2142857015132904,
+            "section": 17,
+            "rowIndex": 9,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 30.857135772705079,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 31.178564071655275,
+            "holdLength": 0.0,
+            "section": 18,
+            "rowIndex": 3,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 31.49999237060547,
+            "holdLength": 0.5357142686843872,
+            "section": 18,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 32.5714225769043,
+            "holdLength": 0.3214285671710968,
+            "section": 19,
+            "rowIndex": 0,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 32.678565979003909,
+            "holdLength": 0.2142857015132904,
+            "section": 19,
+            "rowIndex": 1,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 32.99999237060547,
+            "holdLength": 0.1071428582072258,
+            "section": 19,
+            "rowIndex": 4,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 33.21427917480469,
+            "holdLength": 0.1071428582072258,
+            "section": 19,
+            "rowIndex": 6,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "up",
+            "noteHitTime": 33.428565979003909,
+            "holdLength": 0.1071428582072258,
+            "section": 19,
+            "rowIndex": 8,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "down",
+            "noteHitTime": 33.642852783203128,
+            "holdLength": 0.1071428582072258,
+            "section": 19,
+            "rowIndex": 10,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "left",
+            "noteHitTime": 33.85713577270508,
+            "holdLength": 0.1071428582072258,
+            "section": 19,
+            "rowIndex": 12,
+            "hasSpawned": false
+        },
+        {
+            "side": "opponent",
+            "direction": "right",
+            "noteHitTime": 34.0714225769043,
+            "holdLength": 0.1071428582072258,
+            "section": 19,
+            "rowIndex": 14,
+            "hasSpawned": false
+        }
+    ],
+    "sections": [
+        {
+            "sectionIndex": 50,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 51,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 52,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 53,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 54,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 55,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 56,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 57,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 58,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 59,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 60,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 61,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 62,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 63,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 64,
+            "bpm": 110.0
+        },
+        {
+            "sectionIndex": 65,
+            "bpm": 110.0
+        }
+    ]
+}
